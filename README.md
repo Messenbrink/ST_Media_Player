@@ -15,5 +15,3 @@ Planed Features:
 - No third-party plugins required
 
 Working Preview: http://sandbox.messenbrink.eu/media_player
-
-Thats it for now ;)
