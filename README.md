@@ -1,7 +1,7 @@
 ST Media Player - Pre Alpha
 ===============
 
-An native HTML5/CSS3 & Javascript media player for video and audio - wrapped in PHP.
+An native HTML5/CSS3 & Javascript media player for video and audio.
 
 Planed Features:
 - Multiple resolution video playback [done]
