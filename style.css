@@ -11,7 +11,7 @@
 }
 
 ::selection {
-  background:#2a3f50; /* Safari */
+	background:#2a3f50; /* Safari */
 	}
 ::-moz-selection {
 	background:#2a3f50; /* Firefox */
@@ -33,6 +33,7 @@
     height: 360px;
     margin:-180px auto;
     top:50%;
+    overflow:hidden;
 }
             
 #video_controls{
