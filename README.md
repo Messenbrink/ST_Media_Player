@@ -5,7 +5,16 @@ An native HTML5/CSS3 & Javascript media player for video and audio.
 
 var author = mdu12a.getStudentsByKey('eaasemes', 'eaathtei');
 
-Planed Features:
+Intended Features:
+- Multiple resolution video playback
+- Multiple size video playback
+- Playlist support
+- Fullscreen playback
+- Custom user interface
+- Caption support
+- Fallbacks
+
+Current Features:
 - Multiple resolution video playback
 - Multiple size video playback
 - Playlist support
@@ -13,5 +22,7 @@ Planed Features:
 - Fullscreen playback
 - Custom user interface
 - No third-party plugins required
+
+
 
 Working Preview: http://sandbox.messenbrink.eu/media_player
