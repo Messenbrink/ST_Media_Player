@@ -25,4 +25,4 @@ Current Features:
 
 
 
-Working Preview: http://sandbox.messenbrink.eu/media_player
+Working Preview: http://sandbox.messenbrink.eu/final_media_player
