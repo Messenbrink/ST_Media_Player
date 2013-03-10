@@ -13,7 +13,7 @@ Features for version 0.1 (current)
 - Custom user interface
 - No third-party plugins required
  
-Additional Features for version 0.2 (next release)
+Additional features for version 0.2 (next release)
 ------------------------------
 - Multiple language subtitle support
 - Fallbacks for older browsers via Flash
